@@ -36,6 +36,7 @@ Each pac has access to two abilities (SWITCH and SPEED) that share the same cool
 Pacs can receive the following commands (a pac can only receive one command per turn):
 
 MOVE: Give the pac a target position, the pac will find a shortest route to that position and move the first step of the way. The pac will not take into account the presence of pellets or other pacs when choosing a route. Each pac that received a MOVE order will move toward the target by going either up, down, left or right.
+
 SWITCH: it will morph into a new form. The available pac types are:
 1. ROCK
 2. PAPER
