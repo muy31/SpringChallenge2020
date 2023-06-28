@@ -40,6 +40,7 @@ SWITCH: it will morph into a new form. The available pac types are:
 1. ROCK
 2. PAPER
 3. SCISSORS
+
 SPEED: it will speed up for the next 5 turns, making it take the first 2 steps along its path when moving. This means the pac can move twice as far as usual on each turn.
 
 ### See the Game Protocol section for more information on sending commands to your pacs.
