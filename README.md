@@ -1,8 +1,7 @@
 # Spring Challenge 2020 report for muy31
 Hosted here: https://www.codingame.com/multiplayer/bot-programming/spring-challenge-2020
 
-RANK
-# 615/4955
+# RANK: 615/4955
 
 # STATEMENT
 
